@@ -241,6 +241,7 @@ namespace ConsoleApp1
                                 Console.Clear();
                                 break;
                             case "5":
+                                  Console.WriteLine("Meblegi daxil edin");
 
                                 decimal Mebleg = Convert.ToDecimal(Console.ReadLine());
                                 try
